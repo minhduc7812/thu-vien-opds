@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog"
+      xmlns:dc="http://purl.org/dc/terms/">
+  <id>urn:thu-vien-cua-cau:root</id>
+  <title>Thư viện của Cậu</title>
+  <updated>2026-11-25T08:10:00Z</updated>
+  <author>
+    <name>Quản gia</name>
+  </author>
+  <link rel="self" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+
+  <entry>
+    <title>The Deceiver of Divinity — bản tiếng Anh, trọn bộ 990 chương</title>
+    <id>urn:thu-vien-cua-cau:deceiver-en</id>
+    <updated>2026-11-25T08:10:00Z</updated>
+    <author>
+      <name>暴力紫皮人</name>
+    </author>
+    <dc:language>en</dc:language>
+    <summary>Tên gốc: 《死亡游戏：开局欺诈师，假扮神明》 (Death Game: Starting as a Trickster, Pretending to Be a God). File EPUB Cậu đã cấp ngày 25/11/2026 — 990 chương. File lưu trên Google Drive của Cậu.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1XbWphDrJ1OOFXdxD9O_rZY4rR60DxidP" type="application/epub+zip"/>
+  </entry>
+
+  <entry>
+    <title>The Deceiver of Divinity — bản dịch thử tiếng Việt, 10 chương đầu</title>
+    <id>urn:thu-vien-cua-cau:deceiver-vi-10</id>
+    <updated>2026-11-25T08:10:00Z</updated>
+    <author>
+      <name>暴力紫皮人</name>
+    </author>
+    <dc:language>vi</dc:language>
+    <summary>Bản dịch thử bằng VinAI Translate v2 (chương 1–10), bản CHƯA khóa tên nhân vật. Bản khóa tên Hán-Việt sẽ được bổ sung khi dịch xong. File lưu trên Google Drive của Cậu.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1mY6nw_SXlyLsVV8C-C8bL9Fv_OmEGdCH" type="application/epub+zip"/>
+  </entry>
+</feed>
