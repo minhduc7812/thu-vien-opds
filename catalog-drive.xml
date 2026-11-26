@@ -12,6 +12,18 @@
   <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 
   <entry>
+    <title>Phong Khởi Lũng Tây — 10 chương đầu (bản dịch thử thuần Việt)</title>
+    <id>urn:thu-vien-cua-cau:phong-khoi-lung-tay-10</id>
+    <updated>2026-11-26T08:05:00Z</updated>
+    <author>
+      <name>Mã Bá Dung</name>
+    </author>
+    <dc:language>vi</dc:language>
+    <summary>Bản dịch thử (26/11/2026): Tự chương + 10 chương đầu, dịch từ bản convert tiếng Việt Cậu cấp, viết lại thuần Việt theo phong cách cổ phong phương Đông. Tiểu thuyết gián điệp thời Tam Quốc của Mã Bá Dung (马伯庸《风起陇西》). File lưu trên Google Drive của Cậu.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1rUWMYsBS1GYMAJwBB2GYxmkoNAX7f2Kl" type="application/epub+zip"/>
+  </entry>
+
+  <entry>
     <title>The Deceiver of Divinity — bản tiếng Anh, trọn bộ 990 chương</title>
     <id>urn:thu-vien-cua-cau:deceiver-en</id>
     <updated>2026-11-25T08:52:00Z</updated>
