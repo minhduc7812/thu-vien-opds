@@ -4,7 +4,7 @@
       xmlns:dc="http://purl.org/dc/terms/">
   <id>urn:thu-vien-cua-cau:root</id>
   <title>Thư viện của Cậu</title>
-  <updated>2026-11-25T08:52:00Z</updated>
+  <updated>2026-11-26T14:50:00Z</updated>
   <author>
     <name>Quản gia</name>
   </author>
@@ -12,15 +12,15 @@
   <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 
   <entry>
-    <title>Phong Khởi Lũng Tây — 10 chương đầu (bản dịch thử thuần Việt)</title>
-    <id>urn:thu-vien-cua-cau:phong-khoi-lung-tay-10</id>
-    <updated>2026-11-26T08:05:00Z</updated>
+    <title>Phong Khởi Lũng Tây — TRỌN BỘ (bản biên tập thuần Việt, có bìa)</title>
+    <id>urn:thu-vien-cua-cau:phong-khoi-lung-tay-full</id>
+    <updated>2026-11-26T14:50:00Z</updated>
     <author>
       <name>Mã Bá Dung</name>
     </author>
     <dc:language>vi</dc:language>
-    <summary>Bản dịch thử (26/11/2026): Tự chương + 10 chương đầu, dịch từ bản convert tiếng Việt Cậu cấp, viết lại thuần Việt theo phong cách cổ phong phương Đông. Tiểu thuyết gián điệp thời Tam Quốc của Mã Bá Dung (马伯庸《风起陇西》). File lưu trên Google Drive của Cậu.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1rUWMYsBS1GYMAJwBB2GYxmkoNAX7f2Kl" type="application/epub+zip"/>
+    <summary>BẢN TRỌN BỘ (26/11/2026): toàn bộ hai phần (Bộ 1: Hán Trung mười một ngày — Tự chương + 13 chương; Nhạc dạo: Một người Ích Châu ở Vũ Xương — 4 chương + Vĩ thanh; Bộ 2: Tần Lĩnh trung thành — 11 chương + Vĩ thanh) kèm Hậu ký của tác giả, có trang bìa. Biên tập thuần Việt từ bản convert Cậu cấp, giọng cổ phong phương Đông. Tiểu thuyết gián điệp thời Tam Quốc của Mã Bá Dung (马伯庸《风起陇西》). File lưu trên Google Drive của Cậu.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1SQEUCvTGnIBlDfzbO9qmVr3gQ-xgNx8I" type="application/epub+zip"/>
   </entry>
 
   <entry>
