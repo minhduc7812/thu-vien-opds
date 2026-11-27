@@ -4,12 +4,24 @@
       xmlns:dc="http://purl.org/dc/terms/">
   <id>urn:thu-vien-cua-cau:root</id>
   <title>Thư viện của Cậu</title>
-  <updated>2026-11-26T14:50:00Z</updated>
+  <updated>2026-11-27T00:57:00Z</updated>
   <author>
     <name>Quản gia</name>
   </author>
   <link rel="self" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+
+  <entry>
+    <title>Xích Tâm Tuần Thiên — TẬP 1 (Chương 1947–1986, bản nhà, có bìa)</title>
+    <id>urn:thu-vien-cua-cau:xich-tam-tap-1</id>
+    <updated>2026-11-27T00:57:00Z</updated>
+    <author>
+      <name>Tình Hà Dĩ Thậm</name>
+    </author>
+    <dc:language>vi</dc:language>
+    <summary>TẬP 1 đóng cuốn ngày 27/11/2026: 40 chương (1947–1986), có trang bìa và trang tựa. Bản dịch và biên tập thuần Việt của nhà, bắt đầu từ chương 1947 — nơi Cậu đọc dở cuốn này cách đây một năm — giọng cổ phong phương Đông, tên riêng khóa một dạng toàn tập. Tuyến dịch vẫn tiếp tục theo ngày từ chương 1987. File lưu trên Google Drive của Cậu.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1X2w1bCly85PWuOGadxUvv4TD01vauAFK" type="application/epub+zip"/>
+  </entry>
 
   <entry>
     <title>Phong Khởi Lũng Tây — TRỌN BỘ (bản biên tập thuần Việt, có bìa)</title>
