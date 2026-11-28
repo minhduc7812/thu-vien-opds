@@ -4,7 +4,7 @@
       xmlns:dc="http://purl.org/dc/terms/">
   <id>urn:thu-vien-cua-cau:root</id>
   <title>Thư viện của Cậu</title>
-  <updated>2026-11-27T00:57:00Z</updated>
+  <updated>2026-11-28T01:22:00Z</updated>
   <author>
     <name>Quản gia</name>
   </author>
@@ -24,6 +24,17 @@
   </entry>
 
   <entry>
+  <title>Xích Tâm Tuần Thiên — TẬP 2 (Chương 1987–2018, bản nhà, có bìa)</title>
+  <id>urn:thu-vien-cua-cau:xich-tam-tap-2</id>
+  <updated>2026-11-28T01:22:00Z</updated>
+  <author>
+    <name>Tình Hà Dĩ Thậm</name>
+  </author>
+  <dc:language>vi</dc:language>
+  <summary>TẬP 2 đóng cuốn ngày 28/11/2026: 32 chương (1987–2018), có trang bìa vẽ theo tiền lệ Tập 1 và trang tựa. Bản biên tập thuần Việt của nhà, giọng cổ phong phương Đông, tên riêng khóa một dạng. File lưu trên Google Drive của Cậu.</summary>
+  <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1eMt9OoWytC99XhiTyk1V1V2EPZQU_AUA" type="application/epub+zip"/>
+  </entry>
+      <entry>
     <title>Phong Khởi Lũng Tây — TRỌN BỘ (bản biên tập thuần Việt, có bìa)</title>
     <id>urn:thu-vien-cua-cau:phong-khoi-lung-tay-full</id>
     <updated>2026-11-26T14:50:00Z</updated>
