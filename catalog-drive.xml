@@ -4,7 +4,7 @@
       xmlns:dc="http://purl.org/dc/terms/">
   <id>urn:thu-vien-cua-cau:root</id>
   <title>Thư viện của Cậu</title>
-  <updated>2026-11-28T01:22:00Z</updated>
+  <updated>2026-11-28T03:37:00Z</updated>
   <author>
     <name>Quản gia</name>
   </author>
@@ -34,6 +34,18 @@
   <summary>TẬP 2 đóng cuốn ngày 28/11/2026: 32 chương (1987–2018), có trang bìa vẽ theo tiền lệ Tập 1 và trang tựa. Bản biên tập thuần Việt của nhà, giọng cổ phong phương Đông, tên riêng khóa một dạng. File lưu trên Google Drive của Cậu.</summary>
   <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1eMt9OoWytC99XhiTyk1V1V2EPZQU_AUA" type="application/epub+zip"/>
   </entry>
+      <entry>
+              <title>Xích Tâm Tuần Thiên — TẬP 3 (Chương 2019–2038, bản nhà, có bìa)</title>
+              <id>urn:thu-vien-cua-cau:xich-tam-tap-3</id>
+              <updated>2026-11-28T03:37:00Z</updated>
+              <author>
+                        <name>Tình Hà Dĩ Thậm</name>
+              </author>
+              <dc:language>vi</dc:language>
+              <summary>TẬP 3 đóng cuốn ngày 28/11/2026: 20 chương (2019–2038), có trang bìa vẽ theo tiền lệ Tập 1 và trang tựa. Đợt test cơ chế C3, QA/QS tuyến TTS ký đạt (hồ sơ HS-QA-TTS-20261128-F). Bản biên tập thuần Việt của nhà, giọng cổ phong phương Đông. File lưu trên Google Drive của Cậu.</summary>
+              <link rel="http://opds-spec.org/acquisition" href="https://drive.google.com/uc?export=download&amp;id=1CGs78PHspSBTubKYtdUm-5-GOCCmsREX" type="application/epub+zip"/>
+      </entry>
+      
       <entry>
     <title>Phong Khởi Lũng Tây — TRỌN BỘ (bản biên tập thuần Việt, có bìa)</title>
     <id>urn:thu-vien-cua-cau:phong-khoi-lung-tay-full</id>
